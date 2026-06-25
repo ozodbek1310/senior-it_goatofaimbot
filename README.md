@@ -12,7 +12,7 @@
 
 I'm learning web development and enjoy building things with HTML, CSS, and Bootstrap. I use Git to keep track of my projects as I learn.
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **Javascript**
 - 💬 Ask me about **HTML, CSS, Bootstrap, Git**
 
 ---
